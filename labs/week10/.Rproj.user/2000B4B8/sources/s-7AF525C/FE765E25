@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537232391699.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FE765E25",
+    "lastKnownWriteTime" : 1537584434,
+    "last_content_update" : 1537584434311,
+    "path" : "C:/workspaces/ms_datascience_su/IST659/labs/week10/IST659-Lab10.R",
+    "project_path" : "IST659-Lab10.R",
+    "properties" : {
+        "cursorPosition" : "52,0",
+        "scrollLine" : "28"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

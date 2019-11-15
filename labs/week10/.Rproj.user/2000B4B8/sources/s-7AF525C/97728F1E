@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538349818290.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "97728F1E",
+    "lastKnownWriteTime" : 3346849036566623844,
+    "last_content_update" : 1538349818290,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1FD9E5D1",
+        "caption" : "departmentEmployees",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=departmentEmployees&cache_key=1FD9E5D1",
+        "displayedObservations" : "12",
+        "environment" : "",
+        "object" : "departmentEmployees",
+        "preview" : "0",
+        "totalObservations" : "12",
+        "variables" : "3"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
